@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > Tree view context menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Spanish pages](../) > [${Online help}](./) > Tree view context menu
 
 ---
 
@@ -38,17 +38,17 @@ chapters are visible.
 >   This also applies to the section viewpoint and for plot lines/plot points.   
 
 
-### ${Cut}
+### Cortar
 
 Move the selected element from the tree to the clipboard.
 Same as ${`Ctrl`}-`X`.
 
-### ${Copy}
+### Copiar
 
 Copy the selected element to the clipboard.
 Same as ${`Ctrl`}-`C`.
 
-### ${Paste}
+### Pegar
 
 Paste the element stored in the clipboard to the tree.
 Same as ${`Ctrl`}-`V`.
@@ -123,21 +123,21 @@ confirmation is required before exporting.
 > If you overwrite it before reimporting, changes to other chapters may be
 > lost.
 
-### ${Delete}
+### Borrar
 
 Deletes the selected tree element and its children.
 
 -   Parts and chapters are deleted.
--   Sections are marked "${Unused}" and moved to the "${Trash}" chapter.
+-   Sections are marked "${Unused}" and moved to the "Papelera" chapter.
 -   Deleting a part has no effect on its subordinate chapters.
--   Deleting a chapter moves its sections to the "${Trash}" chapter.
--   The "${Trash}" chapter is created automatically, if needed.
--   When deleting the "${Trash}" chapter, all its sections are deleted.
+-   Deleting a chapter moves its sections to the "Papelera" chapter.
+-   The "Papelera" chapter is created automatically, if needed.
+-   When deleting the "Papelera" chapter, all its sections are deleted.
 
 ### ${Set Type}
 
 Sets the type of the selected chapter or section. This can be 
-*${Normal}* or *${Unused}*.
+*Normal* or *${Unused}*.
 
 > **Note**
 > 
@@ -145,7 +145,7 @@ Sets the type of the selected chapter or section. This can be
 > *${Unused}*.
 
 
-### ${Set Status}
+### Definir estado
 
 Sets the completion status of the selected section.
 
@@ -191,9 +191,9 @@ with the same viewpoint.
 > 
 > Be aware, there is no "Undo" feature.
 
-## ${Characters}/${Locations}/${Items} context menu entries
+## Caracteres/Lugares/Objetos context menu entries
 
-### ${Add}
+### Añadir
 
 Adds a new character/location/item.
 
@@ -226,7 +226,7 @@ before exporting.
 > If you overwrite it before reimporting, changes to other section
 > descriptions may be lost.
 
-### ${Delete}
+### Borrar
 
 Deletes the selected character/location/item.
 
@@ -234,7 +234,7 @@ Deletes the selected character/location/item.
 > 
 > Be aware, there is no "Undo" feature.
 
-### ${Set Status}
+### Definir estado
 
 Sets the selected character's status. This can be *major* or *minor*.
 Major characters are highlighted in the tree view.
@@ -247,7 +247,7 @@ Major characters are highlighted in the tree view.
 
 > **Hint**
 > 
-> Select the *${Characters}* root node to set the status for all characters.
+> Select the *Caracteres* root node to set the status for all characters.
 
 
 ### ${Highlight sections with this viewpoint}
@@ -317,10 +317,10 @@ ${Unused}. This excludes the entire plot line from the manuscript.
 ### ${Change sections to Normal}
 
 Set all sections that are assigned to the selected plot line to
-${Normal}. This allows a plot line that has been excluded to be 
+Normal. This allows a plot line that has been excluded to be 
 reintegrated into the manuscript.
 
-### ${Delete}
+### Borrar
 
 Deletes the selected plot line/plot point.
 
@@ -358,4 +358,4 @@ Deletes the selected project note.
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.

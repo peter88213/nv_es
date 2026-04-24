@@ -1,8 +1,8 @@
-"""xxx language package plugin for novelibre.
+"""Spanish language package plugin for novelibre.
 
 Requires Python 3.7+
-Copyright (c) 2025 Peter Triesberger
-For further information see https://github.com/peter88213/nv_xx
+Copyright (c) Peter Triesberger
+For further information see https://github.com/peter88213/nv_es
 License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 This program is free software: you can redistribute it and/or modify
@@ -19,7 +19,7 @@ import os
 import shutil
 import sys
 
-LANGUAGE_CODE = 'xx'
+LANGUAGE_CODE = 'es'
 TRANSLATIONS_DIR = f'{os.path.dirname(sys.argv[0])}/locale/{LANGUAGE_CODE}'
 
 
@@ -27,8 +27,8 @@ class Plugin:
     """Language package plugin class."""
     VERSION = '5.42.0'
     API_VERSION = '5.43'
-    DESCRIPTION = 'xxx language package'
-    URL = 'https://github.com/peter88213/nv_xx'
+    DESCRIPTION = 'Spanish language package'
+    URL = 'https://github.com/peter88213/nv_es'
 
     def install(self, model, view, controller):
         if not os.path.isdir(TRANSLATIONS_DIR):

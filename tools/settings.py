@@ -3,7 +3,7 @@
 languageName = 'Vulcanian'
 # the name of the language
 
-languageCode = 'xx'
+languageCode = 'es'
 # the language code according to ISO 639-1
 
 provider = "T'Pol t_pol@enterprise.starfleet"

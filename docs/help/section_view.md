@@ -1,8 +1,8 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Section} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Spanish pages](../) > [${Online help}](./) > Sección properties
 
 ---
 
-# ${Section} properties
+# Sección properties
 
 The Section properties view opens in the right pane when you select a
 section in the tree.
@@ -17,7 +17,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## ${Tags}
+## Etiquetas
 
 Tags are a very freely usable tool for labeling sections in the tree view. 
 You can highlight sections based on a tag in the project tree.
@@ -30,7 +30,7 @@ pressing the `Enter` key.
 > If you want to use a tag more than once, make sure you use the same
 > spelling in the different places.
 
-## ${Viewpoint}
+## Enfoque
 
 The viewpoint character's short name is displayed in the tree view. You
 can select it from a drop-down list containing all characters in the
@@ -47,7 +47,7 @@ When ticked, there will be no section divider inserted above the
 selected section in exported documents. The section just starts a new
 paragraph.
 
-## ${Plot}
+## Argumento
 
 Expand or collapse this frame by clicking on the label.
 
@@ -70,7 +70,7 @@ are assigned to the section.
 
 #### Add plot line assignment
 
-When clicking on ![${Add}](images/add.png), the "Pick mode" is
+When clicking on ![Añadir](images/add.png), the "Pick mode" is
 activated, and the cursor changes to a "plus" shape. By clicking
 on a plot line, it will be related with the section.
 
@@ -131,7 +131,7 @@ implement something like this to ensure suspense, you can do so here.
 
 If this is not for you, but you would like to use a different method to
 set up a dramaturgical scene micro-structure, you can set the section to
-**${Other}**, and get three freely named text fields.
+**Otros**, and get three freely named text fields.
 
 Here is an example of a non-standard scene category:
 
@@ -164,7 +164,7 @@ characters who have birth dates.
 
 ### Add Relationship
 
-When clicking on ![${Add}](images/add.png), the "Pick mode" is
+When clicking on ![Añadir](images/add.png), the "Pick mode" is
 activated, and the cursor changes to a "plus" shape. By clicking
 on a character/location/item, this element will be related with the
 section.
@@ -196,7 +196,7 @@ properties are displayed.
 > A convenient way to manage and keep track of relationships is offered by
 > the [nv_matrix plugin](https://github.com/peter88213/nv_matrix/).
 
-## ${Date/Time}
+## Fecha/hora
 
 Here you can enter information about the selected section's story time.
 Editing can be completed by pressing the `Enter` key.
@@ -215,11 +215,11 @@ Editing can be completed by pressing the `Enter` key.
 
 If the selected section is a scene, this is when it starts:
 
-#### ${Date}
+#### Fecha
 
 Format: *YYYY-MM-DD*, according to ISO 8601.
 
-#### ${Time}
+#### Hora
 
 Format: *hh:mm*, according to ISO 8601.
 
@@ -253,7 +253,7 @@ The moon phase information consists of:
 
 #### ${Clear date/time}
 
-This will reset *${Date}*, *${Time}*, and *${Day}* simultaneously.
+This will reset *Fecha*, *Hora*, and *${Day}* simultaneously.
 
 #### ${Generate}
 
@@ -263,7 +263,7 @@ previous section, so the selected section follows directly the previous one.
 #### ${Convert date/day}
 
 If the reference date is set, The unspecific *${Day}* can be transformed 
-into a specific *${Date}*, and vice versa.
+into a specific *Fecha*, and vice versa.
 
 > **Hint**
 > 
@@ -272,7 +272,7 @@ into a specific *${Date}*, and vice versa.
 
 ### ${Duration}
 
-#### ${Days}
+#### Días
 
 Any number should be accepted.
 
@@ -288,14 +288,14 @@ automatically increased.
 
 #### ${Clear duration}
 
-This will reset *${Days}*, *${Hours}*, and *${Minutes}* simultaneously.
+This will reset *Días*, *${Hours}*, and *${Minutes}* simultaneously.
 
 #### ${Generate}
 
 This generates the duration from the date/time data of the next
 section, so the next section follows directly the current one.
 
-## ${Links}
+## Enlaces
 
 Expand or collapse this frame by clicking on the label.
 
@@ -322,9 +322,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Añadir Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Añadir](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -339,7 +339,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Abrir Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -380,11 +380,11 @@ in the plot line row.
 
 -   **${Previous}** lets you navigate to the previous section in the
     tree.
--   **${Next}** lets you navigate to the next section in the tree.
+-   **Siguiente** lets you navigate to the next section in the tree.
 
 ---
 
 [English manual](https://peter88213.github.io/nvhelp-en/)
 
 
-Copyright (c) 2025 by Peter Triesberger. All rights reserved.
+Copyright (c) by Peter Triesberger. All rights reserved.
