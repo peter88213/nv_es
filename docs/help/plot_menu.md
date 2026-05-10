@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Spanish pages](../) > [${Online help}](./) > ${Plot} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en español](../) > [${Online help}](./) > ${Plot} menu
 
 ---
 
