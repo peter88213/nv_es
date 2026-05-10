@@ -3,7 +3,7 @@
 [![News/Feedback](docs/img/news-button.png)](https://github.com/peter88213/novelibre/discussions)
 [![Online help](docs/img/help-button.png)](https://peter88213.github.io/nv_es/help/)
 
-# nv_es
+# ![N](docs/img/nLogo32.png) ![Spanish](docs/img/spain.png) nv_es
 
 Spanish language package for [novelibre](https://github.com/peter88213/novelibre/).
 
@@ -58,7 +58,9 @@ The package is also available in zip format: [nv_es_v$Version.zip](https://githu
 
 ## Credits
 
-The Spanish translations of the user interface are provided by .
+- The Spanish translations of the user interface are provided by .
+- The novelibre logo is made using the free *Pusab* font by Ryoichi Tsunekawa, [Flat-it](http://flat-it.com/).
+- The flag icon is from [Flaticon.com](https://www.flaticon.com/free-icons/flag).
 
 ---
 
