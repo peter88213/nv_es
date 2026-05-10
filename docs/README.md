@@ -1,4 +1,4 @@
-[Home Page](https://github.com/peter88213/novelibre) > Páginas en español
+[Home Page](https://github.com/peter88213/novelibre) > Páginas en castellano
 
 ---
 
