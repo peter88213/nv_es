@@ -69,7 +69,7 @@ the `Enter` key.
 
 ## Split a section
 
-With **Archivo > ${Split}** or `${Ctrl}`-`Alt`-`S`, you can
+With **Sección > ${Split}** or `${Ctrl}`-`Alt`-`S`, you can
 split the section at the cursor position.
 
 -   All the text from the cursor position is cut and pasted into a newly
@@ -84,7 +84,7 @@ split the section at the cursor position.
 
 ## Create a section
 
-With **Archivo > ${New}** or `${Ctrl}`-`Alt`-`N`, you can create a section.
+With **Sección > ${New}** or `${Ctrl}`-`Alt`-`N`, you can create a section.
 
 -   The new section is placed after the currently edited section.
 -   The new section is of the same type as the currently edited section.
