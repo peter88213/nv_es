@@ -20,6 +20,25 @@ With **Lugares > Añadir**, you can add a location to the tree.
 
 ---
 
+## ${Assign color...}
+
+**Assign a color to all selected locations**
+
+With **Lugares > ${Assign color...}**
+you can assign a color to all locations in a single or multiple selection.
+A color picker dialog opens.
+If you cancel the color choosing process, the color of the selected locations remain unchanged.
+
+
+## ${Reset color}
+
+**Reset the colors of all selected locations**
+
+With **Lugares > ${Reset color}**
+you can clear the color assignments for all locations in a single or multiple selection.
+
+---
+
 ## ${Import}
 
 **Import locations from another project**
