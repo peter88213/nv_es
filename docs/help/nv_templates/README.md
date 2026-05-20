@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../../) > [${Online help}](../) > nv_templates
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Online help}](../) > nv_templates
 
 ---
 
@@ -8,14 +8,14 @@
 
 This page refers to the latest
 [nv_templates](https://github.com/peter88213/nv_templates/) release. You
-can open it with **Ayuda > ${Templates plugin Online help}**.
+can open it with **${Help} > ${Templates plugin Online help}**.
 
 With *novelibre*, you can define a narrative structure with stages. 
 *nv_templates* faciliates the reuse of narrative structures.
 
-The plugin adds a **${Story Templates}** entry to the *novelibre* **Herramientas**
-menu, a **${Create from template...}...}** entry to the **File} > Nuevo**
-submenu, and a **${Templates plugin Online help}** entry to the **Ayuda**
+The plugin adds a **${Story Templates}** entry to the *novelibre* **${Tools}**
+menu, a **${Create from template...}...}** entry to the **File} > ${New}**
+submenu, and a **${Templates plugin Online help}** entry to the **${Help}**
 menu.
 
 
@@ -28,7 +28,7 @@ menu.
 
 ## Command reference
 
-### Archivo > Nuevo
+### ${File} > ${New}
 
 #### ${Create from template...}
 
@@ -40,7 +40,7 @@ template file.
     name later when saving the project.
 -   Then a second file select dialog asks for the template file to apply.
 
-### Herramientas > ${Story Templates}
+### ${Tools} > ${Story Templates}
 
 #### ${Load}...
 
@@ -48,7 +48,7 @@ This loads the narrative structure from a Markdown template file.
 
 -   A file select dialog asks for the template file to apply.
 
-#### Guardar...
+#### ${Save}...
 
 This saves the narrative structure to a Markdown template file.
 
@@ -124,7 +124,7 @@ The final moment of the story's conflict.
 
 This file generates the following structure in an empty project:
 
-![Screenshot](images/structure01.png)
+
 
 ---
 

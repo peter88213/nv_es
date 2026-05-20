@@ -1,15 +1,15 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [${Online help}](./) > Localización/Objeto properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Location}/${Item} properties
 
 ---
 
-# Localización/Objeto properties
+# ${Location}/${Item} properties
 
 The Location/item properties view opens in the right pane when you
 select a location or an item in the tree.
 
 ## Title and description
 
-![Screenshot](images/world_view01.png)
+
 
 Title and description are displayed in an editable "index card".
 
@@ -26,12 +26,12 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## ALIAS
+## ${AKA}
 
 This entry field is for alias names. Editing can be completed by
 pressing the `Enter` key.
 
-## Etiquetas
+## ${Tags}
 
 Tags are a very freely usable tool for labeling locations and items in
 the tree view. 
@@ -51,11 +51,11 @@ completed by pressing the `Enter` key.
 > keywords when creating a new wiki page for the location or item. This
 > provides a powerful navigation aid.
 
-## Enlaces
+## ${Links}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -78,9 +78,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### Añadir Link
+### ${Add} Link
 
-When clicking on ![Añadir](images/add.png), a file selection dialog
+When clicking on ![${Add}](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -88,14 +88,14 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### ${Remove} Link
 
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### Abrir Link
+### ${Open} Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -137,12 +137,12 @@ in the plot line row.
 ### Location view
 
 -   **${Previous}** lets you navigate to the previous location in the tree.
--   **Siguiente** lets you navigate to the next location in the tree.
+-   **${Next}** lets you navigate to the next location in the tree.
 
 ### Item view
 
 -   **${Previous}** lets you navigate to the previous item in the tree.
--   **Siguiente** lets you navigate to the next item in the tree.
+-   **${Next}** lets you navigate to the next item in the tree.
 
 ---
 

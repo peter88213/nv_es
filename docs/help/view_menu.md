@@ -1,20 +1,20 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [${Online help}](./) > Ver menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${View} menu
 
 ---
 
-# Ver menu
+# ${View} menu
 
 **Control the display**
 
 
 ## ${Highlight tagged elements}
 
-With **Ver > ${Highlight tagged elements}**,
+With **${View} > ${Highlight tagged elements}**,
 you can highlight elements with a specified tag. This opens a tag selection dialog.
 
 ## ${Reset Highlighting}
 
-With **Ver > ${Reset Highlighting}**,
+With **${View} > ${Reset Highlighting}**,
 you can reset the highlighting of tree elements.
 
 ---
@@ -22,41 +22,41 @@ you can reset the highlighting of tree elements.
 
 **Go to the "${Book}" branch and expand it**
 
-With **Ver > ${Show Book}**, you can select and open the "${Book}" branch.
+With **${View} > ${Show Book}**, you can select and open the "${Book}" branch.
 
 ## ${Show Plot lines}
 
 **Go to the "${Plot lines}" branch and expand it**
 
-With **Ver > ${Show Plot lines}**, you can select and open the 
+With **${View} > ${Show Plot lines}**, you can select and open the 
 "${Plot lines}" branch.
 
 ## ${Show Characters}
 
-**Go to the "Caracteres" branch and expand it**
+**Go to the "${Characters}" branch and expand it**
 
-With **Ver > ${Show Characters}**, you can select and open the
-"Caracteres" branch.
+With **${View} > ${Show Characters}**, you can select and open the
+"${Characters}" branch.
 
 ## ${Show Locations}
 
 **Go to the "Locations" branch and expand it**
 
-With **Ver > ${Show Locations}**, you can select and open the
-"Lugares" branch.
+With **${View} > ${Show Locations}**, you can select and open the
+"${Locations}" branch.
 
 ## ${Show Items}
 
-**Go to the "Objetos" branch and expand it**
+**Go to the "${Items}" branch and expand it**
 
-With **Ver > ${Show Items}**, you can select and open the "Objetos"
+With **${View} > ${Show Items}**, you can select and open the "${Items}"
 branch.
 
 ## ${Show Project notes}
 
 **Go to the "${Project notes}" branch and expand it**
 
-With **Ver > ${Show Project notes}**, you can select and open the 
+With **${View} > ${Show Project notes}**, you can select and open the 
 "${Project notes}" branch.
 
 ---
@@ -65,34 +65,34 @@ With **Ver > ${Show Project notes}**, you can select and open the
 
 **Hide the sections**
 
-With **Ver > ${Chapter level}** or `${Ctrl}`-`Alt`-`C`, you can collapse the
+With **${View} > ${Chapter level}** or `${Ctrl}`-`Alt`-`C`, you can collapse the
 tree, so that only parts and chapters are visible.
 
 ## ${Expand all}
 
 **Show the whole tree**
 
-With **Ver > ${Expand all}**, you can expand the whole tree.
+With **${View} > ${Expand all}**, you can expand the whole tree.
 
 ## ${Collapse all}
 
 **Hide child elements**
 
-With **Ver > ${Collapse all}**, you can hide all tree elements except the
+With **${View} > ${Collapse all}**, you can hide all tree elements except the
 main categories.
 
 ## ${Expand selected}
 
 **Show a whole branch**
 
-With **Ver > ${Expand selected}**, you can expand a selected tree
+With **${View} > ${Expand selected}**, you can expand a selected tree
 element.
 
 ## ${Collapse selected}
 
 **Hide child elements**
 
-With **Ver > ${Collapse selected}**, you can collapse a selected branch.
+With **${View} > ${Collapse selected}**, you can collapse a selected branch.
 
 ---
 
@@ -100,7 +100,7 @@ With **Ver > ${Collapse selected}**, you can collapse a selected branch.
 
 **Show/hide the novel text**
 
-With **Ver > ${Toggle Text viewer}** or `${Ctrl}`-`T`, you can open 
+With **${View} > ${Toggle Text viewer}** or `${Ctrl}`-`T`, you can open 
 or close the text viewer window, showing part/chapter/section
 titles and section content.
 
@@ -113,7 +113,7 @@ titles and section content.
 
 **Show/hide the selected element's properties**
 
-With **Ver > ${Toggle Properties}** or `${Ctrl}`-`Alt`-`T`, you can open or
+With **${View} > ${Toggle Properties}** or `${Ctrl}`-`Alt`-`T`, you can open or
 close the element properties window.
 
 > **Hint**
@@ -126,7 +126,7 @@ close the element properties window.
 **Show the selected element's properties either in the main window or in
 its own window**
 
-With **Ver > ${Detach/Dock Properties}** or `${Ctrl}`-`Alt`-`D`, you can
+With **${View} > ${Detach/Dock Properties}** or `${Ctrl}`-`Alt`-`D`, you can
 detach or dock the element properties window .
 
 > **Hint**
@@ -137,28 +137,28 @@ detach or dock the element properties window .
 
 **Project independent program settings**
 
-With **Ver > ${Options}**, you can open a dialog for settings concerning
+With **${View} > ${Options}**, you can open a dialog for settings concerning
 the display.
 
-![novelibre screenshot](images/view_menu02.png)
+
 
 ### ${Coloring mode}
 
 **Set criteria according to which normal sections are colored in the
 tree**
 
-#### Ninguno
+#### ${None}
 
-Normal sections are black on white by default.
+${Normal} sections are black on white by default.
 
-#### Estado
+#### ${Status}
 
-Normal sections are colored according to their completion status
-(*Estructura*, *Borrador*, *${1st Edit}*, *${2nd Edit}*, or *Hecho*).
+${Normal} sections are colored according to their completion status
+(*${Outline}*, *${Draft}*, *${1st Edit}*, *${2nd Edit}*, or *${Done}*).
 
 #### ${Work phase}
 
-Normal sections are highlighted if their completion status does not
+${Normal} sections are highlighted if their completion status does not
 match the work phase defined in the ${Book} properties.
 
 ### ${Large icons}
@@ -179,7 +179,7 @@ is ticked, 24x24 icons are used after the next program startup.
 -   From top to bottom in the list means from left to right in the tree.
 -   Just drag and drop to change the order.
 
-Click the **Aplicar** button to apply changes.
+Click the **${Apply}** button to apply changes.
 
 ---
 

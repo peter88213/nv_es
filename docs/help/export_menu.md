@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [${Online help}](./) > ${Export} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Export} menu
 
 ---
 
@@ -14,7 +14,7 @@ With **${Export} > ${Manuscript for editing}**, you can create a text
 document that is split into sections (to be seen in the Navigator). 
 File name suffix is `_manuscript_tmp`.
 
--   Only "Normal" chapters and sections are exported. Chapters and
+-   Only "${Normal}" chapters and sections are exported. Chapters and
     sections marked "${Unused}" are not exported.
 
 -   Section titles are invisible, but appear in the *Navigator*.
@@ -62,7 +62,7 @@ File name suffix is `_proof_tmp`.
 > other formats and back again. This may work with popular commercial word
 > processors and even with web-based word processors such as Google Docs.
 
--   Only "Normal" chapters and sections are exported. Chapters and
+-   Only "${Normal}" chapters and sections are exported. Chapters and
     sections marked "${Unused}" are not exported.
 
 -   The document contains chapter and section headings. However, changes
@@ -160,7 +160,7 @@ are finished with *novelibre*.
 
 -   The document is placed in the same folder as the project.
 -   Document's **filename**: `<project name>.odt`.
--   Only "Normal" chapters and sections are exported. Chapters and
+-   Only "${Normal}" chapters and sections are exported. Chapters and
     sections marked "${Unused}" are not exported.
 -   Part titles appear as first level heading.
 -   Chapter titles appear as second level heading.
@@ -192,7 +192,7 @@ With **${Export} > ${Brief synopsis (export only)}**, you can create a text
 document containing a brief synopsis with part, chapter, and sections
 titles only. File name suffix is `_brf_synopsis`.
 
--   Only "Normal" chapters and sections are exported. Chapters and
+-   Only "${Normal}" chapters and sections are exported. Chapters and
     sections marked "${Unused}" are not exported.
 -   Part titles appear as first level heading.
 -   Chapter titles appear as second level heading.
@@ -230,7 +230,7 @@ elements to another projects.
 > **Hint**
 > 
 > To import XML data files from another project, use the **${Import}**
-> command in the **Caracteres**, **Lugares**, **Objetos**, 
+> command in the **${Characters}**, **${Locations}**, **${Items}**, 
 > or **${Plot}** menu.
 
 ---

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [${Online help}](./) > Basic concepts
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > Basic concepts
 
 ---
 
@@ -35,7 +35,6 @@ optional; technically they are first level chapters. However, in the
 they produce a heading one level above. Thus, parts are mainly for
 inserting first level headings between the chapters, if needed.
 
-![novelibre screenshot](images/basic_concepts01.png)
 
 > **Hint**
 > 
@@ -43,7 +42,7 @@ inserting first level headings between the chapters, if needed.
 > the level.
 
 
-### Capítulos
+### ${Chapters}
 
 A *novelibre* project must at least have one chapter. In the exported
 documents, regular chapters have a second level heading.
@@ -57,8 +56,6 @@ are only a few chapter properties to be set.
 If you want to preface a chapter or part with a poem or a quotation, you
 can set its first section to be the epigraph.
 
-![novelibre screenshot](images/basic_concepts06.png)
-
 The epigraph appears in the exported ODT document between the chapter
 heading and the actual start of the chapter.
 
@@ -67,7 +64,6 @@ the **${Epigraph}** paragraph style. If you add a description to the
 epigraph, this will be placed below the epigraph as a source reference,
 formatted using the **${Epigraph source}** paragraph style.
 
-![LibreOffice Writer screenshot](images/basic_concepts07.jpg)
 
 > **Hint**
 > 
@@ -91,28 +87,22 @@ However, if you need more fragmented sections when plotting and
 organizing than the reader should see later, you can also append
 sections to each other as new paragraphs with no section divider inbetween.
 
-The image below illustrates both types of section transition. On the
-left, you can see a normal transition with a section divider. On the
-right, the fine horizontal line indicates that a new, appended section
-is beginning.
-
-![novelibre screenshot](images/basic_concepts05.jpg)
 
 ## Part/chapter/section types
 
 Each part, chapter, and section is of a type that can be changed via
-context menu or Part/Chapter/Section menu. The type can be *Normal* or
+context menu or Part/Chapter/Section menu. The type can be *${Normal}* or
 *${Unused}*.
 
-### Normal
+### ${Normal}
 
--   "Normal" type parts, chapters, and sections are counted. The
+-   "${Normal}" type parts, chapters, and sections are counted. The
     totals are displayed in the status bar.
--   "Normal" type sections are exported to the manuscript and
+-   "${Normal}" type sections are exported to the manuscript and
     included in the word count.
--   "Normal" type parts and chapters can have subelements of each
+-   "${Normal}" type parts and chapters can have subelements of each
     type.
--   "Normal" type tree elements are color coded according to the
+-   "${Normal}" type tree elements are color coded according to the
     ${Coloring mode} settings.
 
 ### ${Unused}
@@ -124,26 +114,21 @@ from word count totals and export.
 -   If you mark a section "${Unused}", its properties are preserved.
 -   ${Unused} tree elements are displayed in gray.
 
-![novelibre screenshot](images/basic_concepts04.png)
 
 ## Section completion status
 
-You can assign a Estado to each "Normal" type section via context menu
-or Sección menu. You can choose between *Estructura*, *Borrador*, *${1st Edit}*,
-*${2nd Edit}*, and *Hecho*.
+You can assign a ${Status} to each "${Normal}" type section via context menu
+or ${Section} menu. You can choose between *${Outline}*, *${Draft}*, *${1st Edit}*,
+*${2nd Edit}*, and *${Done}*.
 
 -   You can choose a ${Coloring mode} to display sections in different colors 
     depending on their completion status.
-
-    ![novelibre screenshot](images/basic_concepts02.png)
 
 -   Optionally, you can declare one of the status to be the current
     ${Work phase}, and choose a ${Coloring mode} that highlights sections 
     that are behind schedule.
 
-    ![novelibre screenshot](images/basic_concepts03.png)
-
--   Newly created sections are set to Estructura by default.
+-   Newly created sections are set to ${Outline} by default.
 
 -   Word counts by status appear in the ${Book} properties.
 
@@ -156,7 +141,7 @@ or Sección menu. You can choose between *Estructura*, *Borrador*, *${1st Edit}*
 
 ## Characters and story world
 
-You can define Caracteres, Lugares, and Objetos, and you can relate them
+You can define ${Characters}, ${Locations}, and ${Items}, and you can relate them
 to sections to keep track of their place in the story. There is also
 some metadata stored with *novelibre*, mainly as a quick reference that
 might come in handy when writing or editing.

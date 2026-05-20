@@ -1,8 +1,8 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [${Online help}](./) > Capítulo/${Part} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Chapter}/${Part} properties
 
 ---
 
-# Capítulo/${Part} properties
+# ${Chapter}/${Part} properties
 
 The Chapter/part properties view opens in the right pane when you select
 a chapter or a part in the tree. You can edit the properties of the
@@ -12,9 +12,9 @@ selected chapter or part.
 > 
 > You can change any chapter into a part or vice versa via the 
 > **${Change Level}** entry in the context menu, 
-> the **${Part}** menu, or the **Capítulo** menu.
+> the **${Part}** menu, or the **${Chapter}** menu.
 
-![Screenshot](images/chapter_view01.png)
+
 
 ## Title and description
 
@@ -53,13 +53,13 @@ excluded from auto numbering, and the title you enter manually will persist.
 ## ${The first section is an epigraph}
 
 If this checkbox is ticked, the chapter's first section is formatted as
-an epigraph, if it is of the *Normal* type.
+an epigraph, if it is of the *${Normal}* type.
 
-## Enlaces
+## ${Links}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -82,9 +82,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### Añadir Link
+### ${Add} Link
 
-When clicking on ![Añadir](images/add.png), a file selection dialog
+When clicking on ![${Add}](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -92,14 +92,14 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### ${Remove} Link
 
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### Abrir Link
+### ${Open} Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -139,15 +139,15 @@ in the plot line row.
 
 ## Navigation buttons
 
-### Capítulo view
+### ${Chapter} view
 
 -   **${Previous}** lets you navigate to the previous chapter in the tree.
--   **Siguiente** lets you navigate to the next chapter in the tree.
+-   **${Next}** lets you navigate to the next chapter in the tree.
 
 ### Part view
 
 -   **${Previous}** lets you navigate to the previous part in the tree.
--   **Siguiente** lets you navigate to the next part in the tree.
+-   **${Next}** lets you navigate to the next part in the tree.
 
 ---
 

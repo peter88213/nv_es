@@ -1,16 +1,16 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [${Online help}](./) > Archivo menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${File} menu
 
 ---
 
-# Archivo menu
+# ${File} menu
 
 **File operation**
 
-## Nuevo
+## ${New}
 
 **Create a new novel project**
 
-With **Archivo > Nuevo**, you can create a new project. This will open a
+With **${File} > ${New}**, you can create a new project. This will open a
 submenu.
 
 > **Note**
@@ -45,7 +45,7 @@ submenu.
 
 **Open a novel project**
 
-With **Archivo > ${Open...}** or `${Ctrl}`-`O`, you can open an existing project
+With **${File} > ${Open...}** or `${Ctrl}`-`O`, you can open an existing project
 file.
 
 > **Note**
@@ -53,11 +53,11 @@ file.
 > When opening a project, the current project will be closed. If there are
 > unsaved changes, you will be asked for saving.
 
-## Actualizar
+## ${Reload}
 
 **Reload the novel project**
 
-With **Archivo > Actualizar** or `${Ctrl}`-`R`, you can overwrite the project in
+With **${File} > ${Reload}** or `${Ctrl}`-`R`, you can overwrite the project in
 the memory with the last saved version.
 
 > **Tip**
@@ -73,7 +73,7 @@ the memory with the last saved version.
 
 **Restore the latest backup file**
 
-With **Archivo > ${Restore backup}** or `${Ctrl}`-`B`, you can load the
+With **${File} > ${Restore backup}** or `${Ctrl}`-`B`, you can load the
 penultimate version of the project file. This will overwrite the last
 saved project file. You will get a warning, because changes may be lost.
 
@@ -91,19 +91,19 @@ saved project file. You will get a warning, because changes may be lost.
 
 **Enforce tree refresh after making changes**
 
-With **Archivo > ${Refresh Tree}** or `F5`, you can refresh the tree.
+With **${File} > ${Refresh Tree}** or `F5`, you can refresh the tree.
 
--   "Normal" sections that have been moved to an "${Unused}" chapter
+-   "${Normal}" sections that have been moved to an "${Unused}" chapter
     are made "${Unused}".
 -   Parts and chapters are renumbered according to the Auto numbering
     settings.
--   The "Papelera" chapter is moved to the end of the book, if necessary.
+-   The "${Trash}" chapter is moved to the end of the book, if necessary.
 
 ## ${Lock}
 
 **Protect the project while edited outsides**
 
-With **Archivo > ${Lock}** or `${Ctrl}`-`L`, you can lock the project.
+With **${File} > ${Lock}** or `${Ctrl}`-`L`, you can lock the project.
 
 > **Note**
 > 
@@ -113,7 +113,7 @@ With **Archivo > ${Lock}** or `${Ctrl}`-`L`, you can lock the project.
 
 **Make the project editable**
 
-With **Archivo > ${Unlock}** or `${Ctrl}`-`U`, you can unlock the project.
+With **${File} > ${Unlock}** or `${Ctrl}`-`U`, you can unlock the project.
 
 ---
 
@@ -121,7 +121,7 @@ With **Archivo > ${Unlock}** or `${Ctrl}`-`U`, you can unlock the project.
 
 **Launch the file manager**
 
-With **Archivo > ${Open Project folder}** or `Ctrl-P`, you can launch the
+With **${File} > ${Open Project folder}** or `Ctrl-P`, you can launch the
 file manager with the current project folder. This might come in handy,
 if you e.g. wish to delete files or edit configuration files.
 
@@ -133,14 +133,12 @@ if you e.g. wish to delete files or edit configuration files.
 
 **Provide a css style sheet in the project folder**
 
-With **Archivo > ${Copy style sheet}**, you can copy the style sheet
+With **${File} > ${Copy style sheet}**, you can copy the style sheet
 *novx.css* into the current project folder. This allows you to view the
 *.novx* project file with a web browser.
 
 The following picture shows an Edge browser screenshot: *novelibre*
 project, displayed using the style sheet.
-
-![Edge browser screenshot](images/file_menu01.jpg)
 
 > **Hint**
 > 
@@ -154,7 +152,7 @@ project, displayed using the style sheet.
 
 **Discard the current manuscript by renaming it**
 
-With **Archivo > ${Discard manuscript}**, you can add the *.bak* extension 
+With **${File} > ${Discard manuscript}**, you can add the *.bak* extension 
 to the current manuscript. This may help to avoid confusion about changes 
 made with *novelibre* and *Writer*.
 
@@ -165,11 +163,11 @@ made with *novelibre* and *Writer*.
 
 ---
 
-## Guardar
+## ${Save}
 
 **Save the project**
 
-With **Archivo > Guardar** or `${Ctrl}`-`S`, you can save the project. 
+With **${File} > ${Save}** or `${Ctrl}`-`S`, you can save the project. 
 A backup copy is then automatically created.
 
 > **Note**
@@ -181,7 +179,7 @@ A backup copy is then automatically created.
 
 **Save the project with another file name/at another place**
 
-With **Archivo > ${Save as...}** or `${Ctrl}`-`${Shift}`-`S`, you can save the
+With **${File} > ${Save as...}** or `${Ctrl}`-`${Shift}`-`S`, you can save the
 project with another file name/at another place. Then a file select
 dialog opens to specify the new path and file name.
 
@@ -190,11 +188,11 @@ dialog opens to specify the new path and file name.
 Your current project remains as saved the last time. Changes since then
 apply to the new project.
 
-## Cerrar
+## ${Close}
 
 **Close the novel project**
 
-With **Archivo > Cerrar**, you can close the project without exiting the
+With **${File} > ${Close}**, you can close the project without exiting the
 program. When closing the project, you will be asked for saving the
 project, if it has changed.
 
@@ -203,12 +201,12 @@ project, if it has changed.
 > If you open another project, the current project is automatically
 > closed.
 
-## ${Quit}/Salir
+## ${Quit}/${Exit}
 
 **Exit the program**
 
--   Under Windows you can exit with **Archivo > Salir** or `Alt`-`F4`.
--   Otherwise you can exit with **Archivo > ${Quit}** or `${Ctrl}`-`Q`.
+-   Under Windows you can exit with **${File} > ${Exit}** or `Alt`-`F4`.
+-   Otherwise you can exit with **${File} > ${Quit}** or `${Ctrl}`-`Q`.
 
 > **Note**
 > 

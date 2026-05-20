@@ -1,13 +1,13 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [${Online help}](./) > Sección properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Online help}](./) > ${Section} properties
 
 ---
 
-# Sección properties
+# ${Section} properties
 
 The Section properties view opens in the right pane when you select a
 section in the tree.
 
-![Screenshot](images/section_view01.png)
+
 
 ## Title and description
 
@@ -26,7 +26,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## Etiquetas
+## ${Tags}
 
 Tags are a very freely usable tool for labeling sections in the tree view. 
 You can highlight sections based on a tag in the project tree.
@@ -39,7 +39,7 @@ pressing the `Enter` key.
 > If you want to use a tag more than once, make sure you use the same
 > spelling in the different places.
 
-## Enfoque
+## ${Viewpoint}
 
 The viewpoint character's short name is displayed in the tree view. You
 can select it from a drop-down list containing all characters in the
@@ -60,7 +60,7 @@ paragraph.
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/section_view04.png)
+
 
 ### ${Plot lines}
 
@@ -79,7 +79,7 @@ are assigned to the section.
 
 #### Add plot line assignment
 
-When clicking on ![Añadir](images/add.png), the "Pick mode" is
+When clicking on ![${Add}](images/add.png), the "Pick mode" is
 activated, and the cursor changes to a "plus" shape. By clicking
 on a plot line, it will be related with the section.
 
@@ -127,11 +127,11 @@ Expand or collapse this frame by clicking on the label.
 
 Here is an example of an "action scene":
 
-![Screenshot](images/section_view03.png)
+
 
 Here is an example of a "reaction scene" or "sequel":
 
-![Screenshot](images/section_view08.png)
+
 
 There is a popular theory for "selling writers" that suggests novels
 are best divided into scenes, alternating between "action scenes" and
@@ -140,11 +140,11 @@ implement something like this to ensure suspense, you can do so here.
 
 If this is not for you, but you would like to use a different method to
 set up a dramaturgical scene micro-structure, you can set the section to
-**Otros**, and get three freely named text fields.
+**${Other}**, and get three freely named text fields.
 
 Here is an example of a non-standard scene category:
 
-![Screenshot](images/section_view06.png)
+
 
 On the other hand, not every section is a scene to which the categories
 mentioned above apply. Sections can be characterized by mode of
@@ -154,13 +154,13 @@ Exposition). So if a section is not staged, you can set the section to
 
 Here is an example of a non-staged section category:
 
-![Screenshot](images/section_view07.png)
+
 
 ## ${Relationships}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/section_view02.png)
+
 
 If you want to associate characters, locations, and items with the
 section, you can do it here by adding the element to a list of
@@ -173,7 +173,7 @@ characters who have birth dates.
 
 ### Add Relationship
 
-When clicking on ![Añadir](images/add.png), the "Pick mode" is
+When clicking on ![${Add}](images/add.png), the "Pick mode" is
 activated, and the cursor changes to a "plus" shape. By clicking
 on a character/location/item, this element will be related with the
 section.
@@ -205,7 +205,7 @@ properties are displayed.
 > A convenient way to manage and keep track of relationships is offered by
 > the [nv_matrix plugin](https://github.com/peter88213/nv_matrix/).
 
-## Fecha/hora
+## ${Date/Time}
 
 Here you can enter information about the selected section's story time.
 Editing can be completed by pressing the `Enter` key.
@@ -218,17 +218,17 @@ Editing can be completed by pressing the `Enter` key.
 > [Timeline plugin](https://github.com/peter88213/nv_timeline/), or the 
 > [Aeon Timeline 2 plugin](https://github.com/peter88213/nv_aeon2/).
 
-![Screenshot](images/section_view05.png)
+
 
 ### ${Start}
 
 If the selected section is a scene, this is when it starts:
 
-#### Fecha
+#### ${Date}
 
 Format: *YYYY-MM-DD*, according to ISO 8601.
 
-#### Hora
+#### ${Time}
 
 Format: *hh:mm*, according to ISO 8601.
 
@@ -246,7 +246,7 @@ reference date, if set.
 If the required date information is set, you can call up the
 corresponding moon phase.
 
-![Screenshot](images/section_view09.png)
+
 
 The moon phase information consists of:
 
@@ -262,7 +262,7 @@ The moon phase information consists of:
 
 #### ${Clear date/time}
 
-This will reset *Fecha*, *Hora*, and *${Day}* simultaneously.
+This will reset *${Date}*, *${Time}*, and *${Day}* simultaneously.
 
 #### ${Generate}
 
@@ -272,7 +272,7 @@ previous section, so the selected section follows directly the previous one.
 #### ${Convert date/day}
 
 If the reference date is set, The unspecific *${Day}* can be transformed 
-into a specific *Fecha*, and vice versa.
+into a specific *${Date}*, and vice versa.
 
 > **Hint**
 > 
@@ -281,7 +281,7 @@ into a specific *Fecha*, and vice versa.
 
 ### ${Duration}
 
-#### Días
+#### ${Days}
 
 Any number should be accepted.
 
@@ -297,18 +297,18 @@ automatically increased.
 
 #### ${Clear duration}
 
-This will reset *Días*, *${Hours}*, and *${Minutes}* simultaneously.
+This will reset *${Days}*, *${Hours}*, and *${Minutes}* simultaneously.
 
 #### ${Generate}
 
 This generates the duration from the date/time data of the next
 section, so the next section follows directly the current one.
 
-## Enlaces
+## ${Links}
 
 Expand or collapse this frame by clicking on the label.
 
-![Screenshot](images/world_view02.png)
+
 
 This is a list for image and research document links.
 
@@ -331,9 +331,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### Añadir Link
+### ${Add} Link
 
-When clicking on ![Añadir](images/add.png), a file selection dialog
+When clicking on ![${Add}](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -341,14 +341,14 @@ opens. The selected file will be added to the link list.
 > By default, the dialog shows image files. For other file types,
 > change the selector in the lower right corner.
 >
-> ![Screenshot](images/filePicker01.png)
+
 
 ### ${Remove} Link
 
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### Abrir Link
+### ${Open} Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -389,7 +389,7 @@ in the plot line row.
 
 -   **${Previous}** lets you navigate to the previous section in the
     tree.
--   **Siguiente** lets you navigate to the next section in the tree.
+-   **${Next}** lets you navigate to the next section in the tree.
 
 ---
 
