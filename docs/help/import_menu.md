@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Import} menu
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [Ayuda](./) > ${Import} menu
 
 ---
 

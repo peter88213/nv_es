@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_matrix
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../../) > [Ayuda](../) > nv_matrix
 
 ---
 
@@ -8,14 +8,14 @@
 
 This page refers to the latest
 [nv_matrix](https://github.com/peter88213/nv_matrix/) release. You can
-open it with **${Help} > ${Matrix plugin help}**
+open it with **Ayuda > ${Matrix plugin help}**
 or `F1` when the matrix manager is active.
 
 
 ## Start the matrix manager
 
 -   Open the matrix manager either from the main menu: 
-    **${Tools} > ${Matrix}**,
+    **Herramientas > ${Matrix}**,
 -   or via the ![Matrix](images/matrix.png) button in the toolbar.
 
 ## Hovertips

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_snapshots
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../../) > [Ayuda](../) > nv_snapshots
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_snapshots](https://github.com/peter88213/nv_snapshots/) release. You
-can open it with **${Help} > ${Snapshots plugin help}**
+can open it with **Ayuda > ${Snapshots plugin help}**
 or `F1` when the snapshot dialog or the snapshot manager is active.
 
 ## General
@@ -18,9 +18,9 @@ file. *nv_snapshots* creates such snapshots on demand and stores them in
 a subdirectory of the project folder. This subdirectory is named
 *"Snapshots"* and is created automatically if required. Saving a
 snapshot is manually triggered via `${Ctrl}`-`Alt`-`S` or the 
-**${File} > ${Snapshot}** menu command.
+**Archivo > ${Snapshot}** menu command.
 
-Use the **${Tools} > ${Snapshots}** menu command to start the 
+Use the **Herramientas > ${Snapshots}** menu command to start the 
 **snapshot manager**. The snapshot manager displays the snapshots of the currently
 open project in list form. You can select individual snapshots and
 export documents from them. OpenOffice/LibreOffice has a document
@@ -40,7 +40,7 @@ OpenOffice/LibreOffice.
 2.  Export a document of the same kind from the current project and open
     it.
 3.  Select **${Edit} > ${Compare Document}** (OpenOffice), or
-    *${File} > ${Compare Document}** (newer versions of LibreOffice), or 
+    *Archivo > ${Compare Document}** (newer versions of LibreOffice), or 
     **${Edit} - Track Changes - Compare Document\...**
     (older versions of LibreOffice).
 4.  A file selection dialog opens. Select the "snapshot document" and
@@ -62,7 +62,7 @@ transfer the revised state to the project.
 
 ### *novelibre* main menu entries
 
-#### ${File} > ${Snapshot}
+#### Archivo > ${Snapshot}
 
 Creates a snapshot as a zip file in the *"Snapshots"* subdirectory of
 the current project folder. A dialog for entering a title and a
@@ -72,11 +72,11 @@ description will pop up.
 
 Confirm the entry and create the snapshot.
 
-##### ${Help}
+##### Ayuda
 
 Go to this help page.
 
-##### ${Cancel}
+##### Cancelar
 
 Close the dialog without creating a snapshot.
 
@@ -92,14 +92,14 @@ Close the dialog without creating a snapshot.
 -   If there is already an up-to-date snapshot, no further snapshot will
     be created.
 
-#### ${Tools} > ${Snapshots}
+#### Herramientas > ${Snapshots}
 
 Opens the snapshot manager window. It contains the list of snapshots and
 a display field for the title and description of the selected snapshot.
 The functions of the snapshot manager are accessed via the menu
 described below.
 
-#### ${Help} > ${Snapshots plugin Online help}
+#### Ayuda > ${Snapshots plugin Online help}
 
 Starts the system web browser with this page.
 
@@ -107,29 +107,29 @@ Starts the system web browser with this page.
 
 ### The snapshot manager menu
 
-#### ${File} > ${Open Snapshot folder}
+#### Archivo > ${Open Snapshot folder}
 
 Opens the current project's snapshot folder with the file manager.
 
-#### ${File} > ${Clean up Snapshot folder}
+#### Archivo > ${Clean up Snapshot folder}
 
 Deletes ODF documents, XML data files, and document backups in the snapshot folder.
 
-#### ${File} > ${Snapshot}
+#### Archivo > ${Snapshot}
 
 Creates a snapshot (see above).
 
-#### ${File} > ${Remove}
+#### Archivo > ${Remove}
 
 Deletes the selected snapshot.
 
-#### ${File} > ${Revert}
+#### Archivo > ${Revert}
 
 Overwrites the current project file with the version of the selected
 snapshot and reloads the project in *novelibre*. A snapshot of the
 current project file is created automatically beforehand.
 
-#### ${File} > ${Close}
+#### Archivo > Cerrar
 
 Closes the snapshot manager window.
 
@@ -196,6 +196,6 @@ individually or in groups from the snapshot to the current project.
 
 ------------------------------------------------------------------------
 
-#### ${Help} > ${Help}
+#### Ayuda > Ayuda
 
 Starts the system web browser with this page.

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_writer
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../../) > [Ayuda](../) > nv_writer
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_writer](https://github.com/peter88213/nv_writer/) release. You can
-open it with **${Help} > ${Distraction-free writing plugin help}**.
+open it with **Ayuda > ${Distraction-free writing plugin help}**.
 
 ---
 

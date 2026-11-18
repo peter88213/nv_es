@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_epub
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../../) > [Ayuda](../) > nv_epub
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_epub](https://github.com/peter88213/nv_epub/) release. You can open
-it with **${Help} > ${EPUB export plugin help}**.
+it with **Ayuda > ${EPUB export plugin help}**.
 
 ---
 

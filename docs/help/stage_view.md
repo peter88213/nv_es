@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > ${Stage} properties
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [Ayuda](./) > ${Stage} properties
 
 ---
 
@@ -17,7 +17,7 @@ The editing of the title can be completed by pressing the `Enter` key.
 Changes to the description are applied when the mouse is clicked
 anywhere outside the text input field.
 
-## ${Links}
+## Enlaces
 
 Expand or collapse this frame by clicking on the label.
 
@@ -44,9 +44,9 @@ system's standard image viewer.
 
 The links are displayed in a list in the order they are entered.
 
-### ${Add} Link
+### Añadir Link
 
-When clicking on ![${Add}](images/add.png), a file selection dialog
+When clicking on ![Añadir](images/add.png), a file selection dialog
 opens. The selected file will be added to the link list.
 
 > **Hint**
@@ -61,7 +61,7 @@ opens. The selected file will be added to the link list.
 When clicking on ![${Remove}](images/remove.png) or pressing the `${Del}`
 key, the selected link is removed from the list.
 
-### ${Open} Link
+### Abrir Link
 
 When double-clicking on a link, or clicking on
 ![${Go to}](images/goto.png), the link is opened with the standard
@@ -103,7 +103,7 @@ in the plot line row.
 
 -   **${Previous}** lets you navigate to the previous stage in the
     tree.
--   **${Next}** lets you navigate to the next stage in the tree.
+-   **Siguiente** lets you navigate to the next stage in the tree.
 
 ---
 

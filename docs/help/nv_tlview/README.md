@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_tlview
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../../) > [Ayuda](../) > nv_tlview
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_tlview](https://github.com/peter88213/nv_tlview/) release. You can
-open it with **${Help} > ${Timeline view plugin help}** or with `F1`.
+open it with **Ayuda > ${Timeline view plugin help}** or with `F1`.
 
 ---
 
@@ -21,7 +21,7 @@ given a narrative date/day and time.
 ### Start the Timeline view
 
 -   Open the Timeline view either from the main menu: 
-    **${Tools} > ${Timeline view}**,
+    **Herramientas > ${Timeline view}**,
 -   or via the ![Timeline](images/tlview.png) button in the toolbar.
 
 ### Mouse scrolling
@@ -85,7 +85,7 @@ project tree is positioned in the center of the window.
 
 This sets the scale to one hour per line.
 
-#### ${Days}
+#### Días
 
 This sets the scale to one day per line.
 
@@ -129,9 +129,9 @@ Reset the cascading to default.
 -   If ticked, "00:00" is used as display time for sections without time information. This does not affect the section properties.
 -   If unticked, sections without time information are not displayed.
 
-### "${Help} menu
+### "Ayuda menu
 
-#### ${Help}
+#### Ayuda
 
 Open this help page in a web browser.
 

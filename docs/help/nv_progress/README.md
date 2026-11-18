@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../../) > [${Help}](../) > nv_progress
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../../) > [Ayuda](../) > nv_progress
 
 ---
 
@@ -8,7 +8,7 @@
 
 This page refers to the latest
 [nv_progress](https://github.com/peter88213/nv_progress/) release. 
-You can open it with **${Help} > ${Progress viewer plugin help}**.
+You can open it with **Ayuda > ${Progress viewer plugin help}**.
 
 ---
 
@@ -21,7 +21,7 @@ You can open it with **${Help} > ${Progress viewer plugin help}**.
 ## Launch the program
 
 -   Open the progress log viewer from the main menu: 
-    **${Tools} > ${Daily progress log}**.
+    **Herramientas > ${Daily progress log}**.
 -   While the *nv_progress* window is open, the actual word count is
     automatically updated.
 

@@ -1,4 +1,4 @@
-[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [xxx pages](../) > [${Help}](./) > Basic concepts
+[novelibre ${Home page}](https://github.com/peter88213/novelibre) > [Páginas en castellano](../) > [Ayuda](./) > Basic concepts
 
 ---
 
@@ -42,7 +42,7 @@ inserting first level headings between the chapters, if needed.
 > the level.
 
 
-### ${Chapters}
+### Capítulos
 
 A *novelibre* project must at least have one chapter. In the exported
 documents, regular chapters have a second level heading.
@@ -91,18 +91,18 @@ sections to each other as new paragraphs with no section divider inbetween.
 ## Part/chapter/section types
 
 Each part, chapter, and section is of a type that can be changed via
-context menu or Part/Chapter/Section menu. The type can be *${Normal}* or
+context menu or Part/Chapter/Section menu. The type can be *Normal* or
 *${Unused}*.
 
-### ${Normal}
+### Normal
 
--   "${Normal}" type parts, chapters, and sections are counted. The
+-   "Normal" type parts, chapters, and sections are counted. The
     totals are displayed in the status bar.
--   "${Normal}" type sections are exported to the manuscript and
+-   "Normal" type sections are exported to the manuscript and
     included in the word count.
--   "${Normal}" type parts and chapters can have subelements of each
+-   "Normal" type parts and chapters can have subelements of each
     type.
--   "${Normal}" type tree elements are color coded according to the
+-   "Normal" type tree elements are color coded according to the
     ${Coloring mode} settings.
 
 ### ${Unused}
@@ -117,9 +117,9 @@ from word count totals and export.
 
 ## Section completion status
 
-You can assign a ${Status} to each "${Normal}" type section via context menu
-or ${Section} menu. You can choose between *${Outline}*, *${Draft}*, *${1st Edit}*,
-*${2nd Edit}*, and *${Done}*.
+You can assign a Estado to each "Normal" type section via context menu
+or Sección menu. You can choose between *Estructura*, *Borrador*, *${1st Edit}*,
+*${2nd Edit}*, and *Hecho*.
 
 -   You can choose a ${Coloring mode} to display sections in different colors 
     depending on their completion status.
@@ -128,7 +128,7 @@ or ${Section} menu. You can choose between *${Outline}*, *${Draft}*, *${1st Edit
     ${Work phase}, and choose a ${Coloring mode} that highlights sections 
     that are behind schedule.
 
--   Newly created sections are set to ${Outline} by default.
+-   Newly created sections are set to Estructura by default.
 
 -   Word counts by status appear in the ${Book} properties.
 
@@ -141,7 +141,7 @@ or ${Section} menu. You can choose between *${Outline}*, *${Draft}*, *${1st Edit
 
 ## Characters and story world
 
-You can define ${Characters}, ${Locations}, and ${Items}, and you can relate them
+You can define Caracteres, Lugares, and Objetos, and you can relate them
 to sections to keep track of their place in the story. There is also
 some metadata stored with *novelibre*, mainly as a quick reference that
 might come in handy when writing or editing.
